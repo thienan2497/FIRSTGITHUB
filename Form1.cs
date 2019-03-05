@@ -16,9 +16,12 @@ namespace GITHUB
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int so1 = int.Parse(textBox1.Text);
+            int so2 = int.Parse(textBox2.Text);
+            int d = so1 + so2;//kkk
         }
     }
 }
