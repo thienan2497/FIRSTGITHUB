@@ -20,7 +20,7 @@ namespace GITHUB
         {
             int so1 = int.Parse(textBox1.Text);
             int so2 = int.Parse(textBox2.Text);
-            int d = so1 + so2;
+            int d = so1 + so2;//kkk
         }
     }
 }
