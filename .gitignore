@@ -1,4 +1,8 @@
 bin
 obj
+<<<<<<< HEAD
 .vs
+=======
+*.vs
+>>>>>>> 538e8d446dc9762ce4cfe1702d86120ad0da3d19
 *.resx
